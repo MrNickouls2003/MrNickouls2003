@@ -28,7 +28,7 @@
  ### Studying in this moment:
   <img align="center" alt="Nicolas-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Nicolas-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg">
-  <img align="center" alt="Nicolas-Solidity" height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg)">
+  <img align="center" alt="Nicolas-Solidity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
 
 
  
