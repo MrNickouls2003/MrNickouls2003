@@ -20,24 +20,18 @@
   <img align="center" alt="Nicolas-Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Nicolas-Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
   <img align="center" alt="Nicolas-flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Nicolas-VB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
   
           
  
   
  ### Studying in this moment:
-  <img align="center" alt="Nicolas-VB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
   <img align="center" alt="Nicolas-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Nicolas-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg">
+  <img align="center" alt="Nicolas-Solidity" height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg)">
 
 
-  
-          
-          
-          
-          
-  
-          
-  
+ 
 </div>
 
 
@@ -47,13 +41,6 @@
 <a href = "mailto:cmp.1a.nicolasaugusto2003.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
 
-
-
-
-
-
-         
-          
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
